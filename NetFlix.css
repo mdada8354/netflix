@@ -1,0 +1,251 @@
+.section{
+    width: auto;
+    height: auto;
+    background-color: black;
+    display: flex;
+    margin: 05px;
+    margin-right: 10px;
+    border-radius: 21px;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.Dada{
+    width: 50px;
+    font: 55px;
+    margin-left: 90px;
+    font-size: 40px;
+    padding: 2px;
+    color:#E50914;
+    background-color: rgba(0, 0, 0, 0.315);
+}
+.dd{
+    padding-right: 80px;
+}
+.dd1{
+    font: 25px;
+    padding-right: 3px;
+    font-size: 20px;
+    color: white;
+    background-color:#161513;
+}
+.dd2{
+    font: 25px;
+    padding: 3px;
+    color: white;
+    font-size: 20px;
+    margin-left: 5px;
+    background-color: red;
+    border-radius: 5px;
+}
+.section-1{
+    height: 300px;
+    color: white;
+    background-color: black;
+    border-radius: 21px;
+    text-align: center;
+    padding: 30px 15px 30px 15px;
+    align-items: center;
+    margin-bottom: 2px;
+}
+.bb1{
+    font-size: 50px;
+}
+.bb2{
+    font-size: 20px;
+}
+.bb3{
+    font-size: 25px;
+}
+.dada>input{
+    font-size: 40px;
+    color: rgb(164, 154, 154);
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+
+}
+.bb4{
+    color: white;
+    background-color: red;
+    font-size: 40px;
+    padding: 2px;
+}
+.section-2{
+    border-radius: 21px;
+    margin-bottom: 2px;
+}
+.Dada2{
+    background-color: #161513;
+    border-radius: 21px;
+}
+.Dada2>img{
+    /* display: flex; */
+    align-items: center;
+    margin-left: 11px;
+    margin-right: 11px;
+    justify-content: space-between;
+    width: auto;
+}
+.section-3{
+    background-color: #161513;
+    color: white;
+    /* margin-bottom: 2px; */
+    padding: 10px;
+    padding-bottom: 25px;
+    border-radius: 21px;
+}
+.dada1{
+    background-color: #19183f;
+    color: white;
+    padding: 10px;
+    border-radius: 21px;
+    margin: 0px 10px 0px 10px;
+}
+.aa1{
+    color: white;
+    font-size: 30px;
+}
+.aa2{
+    color: white;
+    font-size: 19px;
+}
+.dada2{
+    background-color: #19183f;
+    color: white;
+    padding: 10px;
+    border-radius: 21px;
+    margin: 0px 10px 0px 10px;
+
+}
+.aa3{
+    color: white;
+    font-size: 30px;
+}
+.aa4{
+    color: white;
+    font-size: 19px;
+}
+.dada3{
+    background-color: #19183f;
+    color: white;
+    padding: 10px;
+    border-radius: 21px;
+    margin: 0px 10px 0px 10px;
+
+}
+.aa5{
+    color: white;
+    font-size: 30px;
+}
+.aa6{
+    color: white;
+    font-size: 19px;
+}
+.dada4{
+    background-color: #19183f;
+    color: white;
+    padding: 10px;
+    border-radius: 21px;
+    margin: 0px 10px 0px 10px;
+
+}
+.aa7{
+    color: white;
+    font-size: 30px;
+}
+.aa8{
+    color: white;
+    font-size: 19px;
+}
+.MAD{
+    display: flex;
+}
+.section-4{
+    background-color: black;
+    color: white;
+    border-radius: 21px;
+    /* margin-top: 0px; */
+    padding-bottom: 30px;
+    margin-bottom: 3px;
+}
+.jj{
+    padding: 20px;
+}
+.b{
+    background-color: #414141;
+    width: 950px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-between;
+    color: black;
+    margin-bottom: 5px;
+    margin-left: 250px;
+    /* border-radius: 5px; */
+    color: white;
+    font-size: small;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.b>p{
+    font-size: 50px;
+}
+.SA{
+    
+    text-align: center;
+}
+.SA1{
+    margin-top: 70px;
+}
+.ll{
+    text-align: center;
+    align-items: center;
+}
+.ll1>input{
+    font-size: 30px;
+    color: rgb(164, 154, 154);
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.ll2{
+    color: white;
+    background-color: red;
+    font-size: 30px;
+    padding: 5px;
+}
+.section-5{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    border-radius: 21px;
+}
+.Dada5{
+    padding: 20px;
+    font-size: 20px;
+}
+.MAD2{
+    padding: 15px;
+    justify-content: space-between;
+    /* margin-right: 120px; */
+    display: flex;
+    text-decoration: underline;
+}
+.dd9{
+    font: 25px;
+    padding-right: 3px;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:#161513;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Gg{
+    padding: 20px;
+    /* margin-bottom: 20px; */
+}
+.Netflix{
+    border-radius: 21px;
+    background-color: black;
+}
